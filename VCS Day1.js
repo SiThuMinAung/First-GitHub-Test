@@ -8,3 +8,8 @@ console.log("Second Commit");
 if (x < y){
   console.log("Y is larger than x")
 };
+
+let z = 3;
+if ((x < y) && (y < z)){
+  console.log("z is the largest");
+}
